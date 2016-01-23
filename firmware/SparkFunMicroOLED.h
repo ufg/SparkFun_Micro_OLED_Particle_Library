@@ -40,8 +40,8 @@
 #define BLACK 0
 #define WHITE 1
 
-#define LCDWIDTH			64
-#define LCDHEIGHT			48
+#define LCDWIDTH			128
+#define LCDHEIGHT			64
 #define FONTHEADERSIZE		6
 
 #define NORM				0
